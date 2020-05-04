@@ -61,3 +61,8 @@ footer {
     width: 100%;
   }
 }
+
+.column {
+  border: 15px solid white;
+  background-color: #74b9ff;
+}
